@@ -1,0 +1,6 @@
+Toto je textový soubor.
+Druhý řádek
+Třetí řádek
+Čtvrtý řádek
+Pátý řádek
+Šestý řádek
