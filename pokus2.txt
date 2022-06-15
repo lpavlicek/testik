@@ -1,4 +1,4 @@
-První řáde
+První řádek
 Druhý řádek
 Třetí řádek
 Čtvrtý řádek
